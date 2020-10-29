@@ -348,5 +348,12 @@ datalist option { /*rauskopiert von https://code.sololearn.com/WAYkDmSwNslF/#htm
 .transition:hover {
     width: 945px;
     height: 630px;
-    transform: rotate(180deg);
+    transform: rotate(360deg);
+}
+
+#schnee {
+    height: 35.2%;
+    width: 35.2%;
+    border: 5px solid black;
+    border-radius: 15px 50px 30px;
 }
